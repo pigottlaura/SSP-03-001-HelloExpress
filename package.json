@@ -1,0 +1,22 @@
+{
+  "name": "helloexpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pigottlaura/SSP-03-001-HelloExpress.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Laura Pigott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pigottlaura/SSP-03-001-HelloExpress/issues"
+  },
+  "homepage": "https://github.com/pigottlaura/SSP-03-001-HelloExpress#readme"
+}
